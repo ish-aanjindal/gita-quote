@@ -1,0 +1,32 @@
+html {
+  background-color: rgb(253, 129, 21);
+}
+h1 {
+  font-family: libre baskerville;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bolder;
+  background-color: darkred;
+  color: white;
+}
+h2 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+  background-color: red;
+  color: white;
+}
+p {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 550;
+  background-color: orange;
+}
+div {
+  width: 50%;
+  margin-left: 25%;
+}
+img {
+  width: 100%;
+  border: 5px solid white;
+}
